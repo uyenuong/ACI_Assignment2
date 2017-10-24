@@ -1,0 +1,1 @@
+This is the second assignment for Art, Code and Interactivity, manipulating video captures in an interactive way.
